@@ -109,6 +109,7 @@ function firePlus(){
 
 function maxFire(){
     fireSource = 36
+    createFireSource()
 }
 
 function changeColor(){
